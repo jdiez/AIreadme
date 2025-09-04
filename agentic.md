@@ -14,7 +14,11 @@
 - [Customer Service Chat Data 30k Rows](https://www.kaggle.com/datasets/aimack/customer-service-chat-data-30k-rows?resource=download)
 > Dataset for Prompt Optimization
 - [MCP data commons](https://github.com/datacommonsorg/agent-toolkit)
-- [HISTAI: Whole Slide Image dataset for Computational Pathology](https://arxiv.org/pdf/2505.12120)
+- [AI training dataset generator](https://github.com/lesteroliver911/ai-dataset-generator)
+
+## APIs:
+- [MCP OpenAPI proxy](https://github.com/matthewhand/mcp-openapi-proxy)
+
 ## Structured output
 - [Converting Images to Structured Data with BAML](https://medium.com/@_jalakoo_/images-to-structured-data-with-baml-19adc3ea9135)
 # Agent training
@@ -23,6 +27,7 @@
 # Agentic Design Patterns and Frameworks
 - [Implementing Agentic Architectural Patterns with Google ADK](https://medium.com/@saeedhajebi/implementing-agentic-architectural-patterns-with-google-adk-75281096de32)
 - [A2A Protocol: An In-Depth Guide](https://medium.com/@saeedhajebi/a2a-protocol-an-in-depth-guide-78387f992f59)
+- [Designing Collaborative Multi-Agent Systems with the A2A Protocol](https://www.oreilly.com/radar/designing-collaborative-multi-agent-systems-with-the-a2a-protocol/)
 - [ADK meets MCP: Bridging Worlds of AI Agents](https://medium.com/google-cloud/adk-meets-mcp-bridging-worlds-of-ai-agents-1ed96ef5399c)
 - [A2A python SD
 - K](https://github.com/a2aproject/a2a-python)
@@ -37,6 +42,7 @@
 - [Deep Agents Bible: The ultimate guide to hierarchical AI reasoning](https://medium.com/data-and-beyond/deep-agents-bible-the-ultimate-guide-to-hierarchical-ai-reasoning-a2ae06875279)
 - [Temporal aware KGs with temporal aware agents: OpenAI tutorial](https://cookbook.openai.com/examples/partners/temporal_agents_with_knowledge_graphs/temporal_agents_with_knowledge_graphs#3-creating-a-temporally-aware-knowledge-graph-with-a-temporal-agent)
 - [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0#)
+- [Mixture of experts with DSpy](https://gist.github.com/ruvnet/b4b29101a99b1e45bf7da5c8b3cc2fb3)
 
 # Agent examples and case studies:
 - [AI for Data Science: Creating an Interactive Analysis Agent](https://atalupadhyay.wordpress.com/2025/01/08/building-an-ai-data-science-agent-with-langgraph-streamlit-and-plotly/)
