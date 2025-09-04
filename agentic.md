@@ -20,12 +20,13 @@
 # Agent training
 - [Agent Reinforcement Trainer](https://github.com/OpenPipe/ART)
 
-# Agent Architectural Patterns and Frameworks
+# Agentic Design Patterns and Frameworks
 - [Implementing Agentic Architectural Patterns with Google ADK](https://medium.com/@saeedhajebi/implementing-agentic-architectural-patterns-with-google-adk-75281096de32)
 - [A2A Protocol: An In-Depth Guide](https://medium.com/@saeedhajebi/a2a-protocol-an-in-depth-guide-78387f992f59)
 - [ADK meets MCP: Bridging Worlds of AI Agents](https://medium.com/google-cloud/adk-meets-mcp-bridging-worlds-of-ai-agents-1ed96ef5399c)
-- [A2A python SDK](https://github.com/a2aproject/a2a-python)
-- [A practical guide to A2A protocol](https://dev.to/composiodev/a-practical-guide-to-agent-to-agent-a2a-protocol-31fd)
+- [A2A python SD
+- K](https://github.com/a2aproject/a2a-python)
+- [iA practical guide to A2A protocol](https://dev.to/composiodev/a-practical-guide-to-agent-to-agent-a2a-protocol-31fd)
 - [Modelling Agent Memory](https://medium.com/neo4j/modeling-agent-memory-d3b6bc3bb9c4)
 - [PydanticAI, Agno, or CrewAI? Choosing the Right Framework for Your AI Agent](https://medium.com/@nomannayeem/pydanticai-agno-or-crewai-choosing-the-right-framework-for-your-ai-agent-e41dea879ce6)
 - [Cognee organizes your data into AI memory.](https://docs.cognee.ai/getting-started/introduction)
@@ -35,6 +36,8 @@
 - [Agents.md: guiding coding agents.](https://share.google/RBoTMtZEPLdqytpzf)
 - [Deep Agents Bible: The ultimate guide to hierarchical AI reasoning](https://medium.com/data-and-beyond/deep-agents-bible-the-ultimate-guide-to-hierarchical-ai-reasoning-a2ae06875279)
 - [Temporal aware KGs with temporal aware agents: OpenAI tutorial](https://cookbook.openai.com/examples/partners/temporal_agents_with_knowledge_graphs/temporal_agents_with_knowledge_graphs#3-creating-a-temporally-aware-knowledge-graph-with-a-temporal-agent)
+- [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0#)
+
 # Agent examples and case studies:
 - [AI for Data Science: Creating an Interactive Analysis Agent](https://atalupadhyay.wordpress.com/2025/01/08/building-an-ai-data-science-agent-with-langgraph-streamlit-and-plotly/)
 - [Implementing ReAct Agentic Pattern From Scratch](https://www.dailydoseofds.com/ai-agents-crash-course-part-10-with-implementation/)
