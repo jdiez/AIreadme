@@ -57,3 +57,7 @@
 - [CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists’ Diagnostic Logic](https://arxiv.org/pdf/2505.20510)
 - [PydanticAI example: triage agent](https://github.com/ArjanCodes/examples/blob/main/2025/pydanticai/main.py)
 - [Build AI agents from scratch: OpenAI](https://www.linkedin.com/posts/that-aum_how-to-build-an-ai-agent-from-scratch-ugcPost-7368828130943332352-SiMd?utm_source=share&utm_medium=member_ios&rcm=ACoAACurZt0BhqFigtr09AaQpYg5Pu6BB5Mb2oM)
+
+
+# Multiagent:
+- [Agent Routing and Orchestration with A2A](https://github.com/aichestra/aichestra)
