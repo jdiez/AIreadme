@@ -1,4 +1,3 @@
 # AIreadme
-# AIreadme
-# AIreadme
-# AIreadme
+
+Documentation around AI in different topics.

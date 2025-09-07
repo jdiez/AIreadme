@@ -1,4 +1,7 @@
-# Smartsheet:
+# Smartsheet
 
-## Python SDK examples:
+Smartsheet related documentation.
+
+## Python SDK examples
+
 - [Smartsheet python sdk](https://github.com/smartsheet/smartsheet-python-sdk)

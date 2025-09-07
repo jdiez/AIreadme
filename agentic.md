@@ -1,5 +1,7 @@
 # Prompting
+
 ## Prompt optimization
+
 - [Systematic LLM Prompt Engineering Using DSPy Optimization](https://towardsdatascience.com/systematic-llm-prompt-engineering-using-dspy-optimization/)
 - [Prompt evaluation example](https://github.com/rmartinshort/llm_judge_with_dspy/tree/main)
 - [Learning DSPy (1): The power of good abstractions](https://thedataquarry.com/blog/learning-dspy-1-the-power-of-good-abstractions/)
@@ -11,20 +13,25 @@
 - [Prompt Optimizer: DSpy](https://medium.com/@nishthakukreti.01/prompt-optimizer-dspy-49a0da7feb91)
 
 ## Datasets
+
 - [Customer Service Chat Data 30k Rows](https://www.kaggle.com/datasets/aimack/customer-service-chat-data-30k-rows?resource=download)
 > Dataset for Prompt Optimization
 - [MCP data commons](https://github.com/datacommonsorg/agent-toolkit)
 - [AI training dataset generator](https://github.com/lesteroliver911/ai-dataset-generator)
 
-## APIs:
+## APIs
 - [MCP OpenAPI proxy](https://github.com/matthewhand/mcp-openapi-proxy)
 
 ## Structured output
+
 - [Converting Images to Structured Data with BAML](https://medium.com/@_jalakoo_/images-to-structured-data-with-baml-19adc3ea9135)
+
+
 # Agent training
 - [Agent Reinforcement Trainer](https://github.com/OpenPipe/ART)
 
 # Agentic Design Patterns and Frameworks
+
 - [Implementing Agentic Architectural Patterns with Google ADK](https://medium.com/@saeedhajebi/implementing-agentic-architectural-patterns-with-google-adk-75281096de32)
 - [A2A Protocol: An In-Depth Guide](https://medium.com/@saeedhajebi/a2a-protocol-an-in-depth-guide-78387f992f59)
 - [Designing Collaborative Multi-Agent Systems with the A2A Protocol](https://www.oreilly.com/radar/designing-collaborative-multi-agent-systems-with-the-a2a-protocol/)
@@ -44,7 +51,8 @@
 - [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0#)
 - [Mixture of experts with DSpy](https://gist.github.com/ruvnet/b4b29101a99b1e45bf7da5c8b3cc2fb3)
 
-# Agent examples and case studies:
+# Agent examples and case studies
+
 - [AI for Data Science: Creating an Interactive Analysis Agent](https://atalupadhyay.wordpress.com/2025/01/08/building-an-ai-data-science-agent-with-langgraph-streamlit-and-plotly/)
 - [Implementing ReAct Agentic Pattern From Scratch](https://www.dailydoseofds.com/ai-agents-crash-course-part-10-with-implementation/)
 - [AI-Researcher: Autonomous Scientific Innovation](https://github.com/HKUDS/AI-Researcher)
@@ -58,6 +66,6 @@
 - [PydanticAI example: triage agent](https://github.com/ArjanCodes/examples/blob/main/2025/pydanticai/main.py)
 - [Build AI agents from scratch: OpenAI](https://www.linkedin.com/posts/that-aum_how-to-build-an-ai-agent-from-scratch-ugcPost-7368828130943332352-SiMd?utm_source=share&utm_medium=member_ios&rcm=ACoAACurZt0BhqFigtr09AaQpYg5Pu6BB5Mb2oM)
 
-
 # Multiagent:
+
 - [Agent Routing and Orchestration with A2A](https://github.com/aichestra/aichestra)
