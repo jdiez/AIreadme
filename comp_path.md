@@ -28,4 +28,4 @@ Computational pathology related documentation.
 ## Datasets
 
 - [HistAI](https://github.com/HistAI/HISTAI?tab=readme-ov-file)
-- [A multimodal dataset for precision oncology in head and neck cancer](https://www.nature.com/articles/s41467-025-62386-6)
+- [A multimodal dataset for precision oncology in head and neck cancer](https://www.nature.com/articles/s41467-025-62386-)
