@@ -36,8 +36,7 @@
 - [A2A Protocol: An In-Depth Guide](https://medium.com/@saeedhajebi/a2a-protocol-an-in-depth-guide-78387f992f59)
 - [Designing Collaborative Multi-Agent Systems with the A2A Protocol](https://www.oreilly.com/radar/designing-collaborative-multi-agent-systems-with-the-a2a-protocol/)
 - [ADK meets MCP: Bridging Worlds of AI Agents](https://medium.com/google-cloud/adk-meets-mcp-bridging-worlds-of-ai-agents-1ed96ef5399c)
-- [A2A python SD
-- K](https://github.com/a2aproject/a2a-python)
+- [A2A python SDK](https://github.com/a2aproject/a2a-python)
 - [iA practical guide to A2A protocol](https://dev.to/composiodev/a-practical-guide-to-agent-to-agent-a2a-protocol-31fd)
 - [Modelling Agent Memory](https://medium.com/neo4j/modeling-agent-memory-d3b6bc3bb9c4)
 - [PydanticAI, Agno, or CrewAI? Choosing the Right Framework for Your AI Agent](https://medium.com/@nomannayeem/pydanticai-agno-or-crewai-choosing-the-right-framework-for-your-ai-agent-e41dea879ce6)
@@ -54,6 +53,7 @@
 # Agent examples and case studies
 
 - [AI for Data Science: Creating an Interactive Analysis Agent](https://atalupadhyay.wordpress.com/2025/01/08/building-an-ai-data-science-agent-with-langgraph-streamlit-and-plotly/)
+- [AI-Researcher: Autonomous Scientific Innovation](https://github.com/HKUDS/AI-Researcher)
 - [Implementing ReAct Agentic Pattern From Scratch](https://www.dailydoseofds.com/ai-agents-crash-course-part-10-with-implementation/)
 - [AI-Researcher: Autonomous Scientific Innovation](https://github.com/HKUDS/AI-Researcher)
 - [Text 2 Cypher ReACT agent](https://github.com/neo4j-field/text2cypher-react-agent-example/blob/main/agent.py)
@@ -69,3 +69,9 @@
 # Multiagent:
 
 - [Agent Routing and Orchestration with A2A](https://github.com/aichestra/aichestra)
+
+
+## Courses
+
+- [MS-Azure AI agents course for beginners](https://github.com/microsoft/ai-agents-for-beginners)
+
