@@ -12,3 +12,4 @@ Kgateway is a feature-rich, fast, and flexible Kubernetes-native ingress control
   AGENTS.md is a simple, open format for guiding coding agents.
 - [Claude Code Subagents](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
 - [Claude Code Subagents Collection](https://github.com/wshobson/agents)
+- [docker-ai](https://www.docker.com/solutions/docker-ai/)

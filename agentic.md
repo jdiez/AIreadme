@@ -65,13 +65,18 @@
 - [CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists’ Diagnostic Logic](https://arxiv.org/pdf/2505.20510)
 - [PydanticAI example: triage agent](https://github.com/ArjanCodes/examples/blob/main/2025/pydanticai/main.py)
 - [Build AI agents from scratch: OpenAI](https://www.linkedin.com/posts/that-aum_how-to-build-an-ai-agent-from-scratch-ugcPost-7368828130943332352-SiMd?utm_source=share&utm_medium=member_ios&rcm=ACoAACurZt0BhqFigtr09AaQpYg5Pu6BB5Mb2oM)
+- [DeepMCPAgent](https://github.com/cryxnet/DeepMCPAgent)
+  Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.
 
 # Multiagent:
 
 - [Agent Routing and Orchestration with A2A](https://github.com/aichestra/aichestra)
+- [MCP + A2A Agentic AI Sample Project](https://github.com/ClaudiaYao/mcp_a2a_agent_system)
+- [Build Multi-Agent Systems using A2A SDK](https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents/airbnb_planner_multiagent)
+-[Sample Agents from A2A samples repository](https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents)
 
 
 ## Courses
 
 - [MS-Azure AI agents course for beginners](https://github.com/microsoft/ai-agents-for-beginners)
-
+- [MCP + A2A Coding Masterclass: Build multi-agent orchestration from scratch (Beginner to Pro)](https://www.youtube.com/watch?v=utF6leQwcts&t=118s)
