@@ -20,3 +20,9 @@ Kgateway is a feature-rich, fast, and flexible Kubernetes-native ingress control
 - [MCP registry documentation github repo](https://github.com/modelcontextprotocol/registry/tree/main)
 - [Navigating the Medical Research Landscape with MCP and Agents — a local implementation with ollama, flask, and python](https://horstherb.medium.com/navigating-the-medical-research-landscape-with-mcp-and-agents-a-local-implementation-with-ollama-b33a0d19bc20)
 - [File System MCP server: Anthropic](https://github.com/modelcontextprotocol/servers/tree/HEAD/src/filesystem)
+
+## Memory
+
+- [Cognee: AI Memory Meets Real-World Testing: Rethinking Traditional QA Benchmarks](https://www.cognee.ai/blog/deep-dives/ai-memory-evals-0825)
+- [Cognee and DuckDB](https://motherduck.com/blog/duckdb-cognee-sql-analytics-graph-rag/)
+
