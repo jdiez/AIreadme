@@ -68,15 +68,24 @@
 - [DeepMCPAgent](https://github.com/cryxnet/DeepMCPAgent)
   Model-agnostic LangChain/LangGraph agents powered entirely by MCP tools over HTTP/SSE.
 
-# Multiagent:
+## Multiagent:
 
 - [Agent Routing and Orchestration with A2A](https://github.com/aichestra/aichestra)
 - [MCP + A2A Agentic AI Sample Project](https://github.com/ClaudiaYao/mcp_a2a_agent_system)
 - [Build Multi-Agent Systems using A2A SDK](https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents/airbnb_planner_multiagent)
 -[Sample Agents from A2A samples repository](https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents)
 
+## Agent training
+
+- [ART: Agent Reinforcement Trainer](https://github.com/OpenPipe/ART?tab=readme-ov-file)
+- [RULER: Relative Universal LLM-Elicited Rewards](https://art.openpipe.ai/fundamentals/ruler)
+- [Memento: Fine-tuning LLM Agents without Fine-tuning LLM Weights](https://medium.com/@pankaj_pandey/memento-fine-tuning-llm-agents-without-fine-tuning-llm-weights-7c8281d1b020)
 
 ## Courses
 
 - [MS-Azure AI agents course for beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [MCP + A2A Coding Masterclass: Build multi-agent orchestration from scratch (Beginner to Pro)](https://www.youtube.com/watch?v=utF6leQwcts&t=118s)
+
+
+## Biomedical and pharma
+- [Biomni: A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
