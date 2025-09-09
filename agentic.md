@@ -89,3 +89,7 @@
 
 ## Biomedical and pharma
 - [Biomni: A General-Purpose Biomedical AI Agent](https://github.com/snap-stanford/Biomni)
+
+
+## Governance 
+- [Reinventing the Role of Data Catalogs and Governance in the Era of Agents](https://www.youtube.com/watch?v=2MzYrVChw0Q&t)
