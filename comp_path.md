@@ -11,7 +11,8 @@
 - [A whole-slide foundation model for digital pathology from real-world data](https://www.nature.com/articles/s41586-024-07441-w)
 - [Huggingface Prov-Gigapath site](https://azhuggingface.co/prov-gigapath/prov-gigapath)
 - [Generating dermatopathology reports from gigapixel whole slide images with HistoGPT](https://www.nature.com/articles/s41467-025-60014-x)
-
+- [VLSA: Interpretable Vision-Language Survival Analysis with Ordinal Inductive Bias for Computational Pathology](https://github.com/liupei101/VLSA)
+- [A multimodal generative AI copilot for human pathology](https://www.nature.com/articles/s41586-024-07618-3)
 
 ## Generic Image - Text Visual Models:
 - [A Multimodal Biomedical Foundation Model Trained from Fifteen Million Image–Text Pairs](https://ai.nejm.org/doi/full/10.1056/AIoa2400640)
@@ -22,7 +23,15 @@
 ## Datasets
 - [HistAI](https://github.com/HistAI/HISTAI?tab=readme-ov-file)
 - [A multimodal dataset for precision oncology in head and neck cancer](https://www.nature.com/articles/s41467-025-62386-6)
+- [TCGA]()
+
 
 ## Conversational models
 - [Generating dermatopathology reports from gigapixel whole slide images with HistoGPT](https://www.nature.com/articles/s41467-025-60014-x?fromPaywallRec=false)
 - [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](https://arxiv.org/html/2410.11761v3)
+
+## Computationsl pathology AI articles and reviews
+
+- [Artificial intelligence in digital pathology — time for a reality check](https://www.nature.com/articles/s41571-025-00991-6?fromPaywallRec=true)
+- [AI-Assisted Pathology](https://www.nature.com/collections/eihffgbdji)
+- [How artificial intelligence is transforming pathology](https://www.nature.com/articles/d41586-025-01576-0)
