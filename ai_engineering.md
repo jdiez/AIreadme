@@ -20,9 +20,12 @@ Kgateway is a feature-rich, fast, and flexible Kubernetes-native ingress control
 - [MCP registry documentation github repo](https://github.com/modelcontextprotocol/registry/tree/main)
 - [Navigating the Medical Research Landscape with MCP and Agents — a local implementation with ollama, flask, and python](https://horstherb.medium.com/navigating-the-medical-research-landscape-with-mcp-and-agents-a-local-implementation-with-ollama-b33a0d19bc20)
 - [File System MCP server: Anthropic](https://github.com/modelcontextprotocol/servers/tree/HEAD/src/filesystem)
+- [MCP-UI](https://github.com/idosal/mcp-ui)
+- [Top 8 MCP Servers to Supercharge Your Vibe Coding in 2025](https://medium.com/coding-nexus/top-8-mcp-servers-to-supercharge-your-vibe-coding-in-2025-f18415e228cb )
 
 ## Memory
 
 - [Cognee: AI Memory Meets Real-World Testing: Rethinking Traditional QA Benchmarks](https://www.cognee.ai/blog/deep-dives/ai-memory-evals-0825)
 - [Cognee and DuckDB](https://motherduck.com/blog/duckdb-cognee-sql-analytics-graph-rag/)
-
+- [Cognee and LanceDB](https://www.cognee.ai/blog/deep-dives/cognee-lancedb-simplifying-rag-for-developers)
+- [Example: Agno with Relational database Memory](https://medium.com/@kusumsingh209/agno-building-an-intelligent-agent-with-memory-and-sql-integration-062c746635ef)

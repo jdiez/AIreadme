@@ -73,7 +73,9 @@
 - [Agent Routing and Orchestration with A2A](https://github.com/aichestra/aichestra)
 - [MCP + A2A Agentic AI Sample Project](https://github.com/ClaudiaYao/mcp_a2a_agent_system)
 - [Build Multi-Agent Systems using A2A SDK](https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents/airbnb_planner_multiagent)
--[Sample Agents from A2A samples repository](https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents)
+- [Sample Agents from A2A samples repository](https://github.com/a2aproject/a2a-samples/tree/main/samples/python/agents)
+- [Develop a Financial Multi-Agent System with Dynamic Tools using Gemini and Google ADK Agents](https://medium.com/@rubenszimbres/develop-a-financial-multi-agent-system-with-dynamic-tools-using-gemini-and-google-adk-agents-05ded38bcfab )
+- [Build an AI Agent That Turns SQL Databases into Dashboards — No Queries Needed](https://viveksinghpathania.medium.com/build-an-ai-agent-that-turns-sql-databases-into-dashboards-no-queries-needed-ea78571b2475)
 
 ## Agent training
 
