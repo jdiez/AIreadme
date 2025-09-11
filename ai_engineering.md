@@ -22,6 +22,7 @@ Kgateway is a feature-rich, fast, and flexible Kubernetes-native ingress control
 - [File System MCP server: Anthropic](https://github.com/modelcontextprotocol/servers/tree/HEAD/src/filesystem)
 - [MCP-UI](https://github.com/idosal/mcp-ui)
 - [Top 8 MCP Servers to Supercharge Your Vibe Coding in 2025](https://medium.com/coding-nexus/top-8-mcp-servers-to-supercharge-your-vibe-coding-in-2025-f18415e228cb )
+- [11 Data Science MCP Servers for Sourcing, Analyzing, and Visualizing Data](https://snyk.io/articles/11-data-science-mcp-servers-for-sourcing-analyzing-and-visualizing-data/)
 
 ## Memory
 
