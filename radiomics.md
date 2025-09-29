@@ -13,4 +13,16 @@
 - [DICOM MCP Server for Medical Imaging Systems](https://github.com/ChristianHinge/dicom-mcp)
 - [Agentic healthcare LLMs](https://www.christianhinge.com/projects/dicom-mcp/#how-it-works)
 - [Diagnostic performances of GPT-4o, Claude 3 Opus, and Gemini 1.5 Pro in “Diagnosis Please” cases](https://pmc.ncbi.nlm.nih.gov/articles/PMC11522128/)
+- [Performance of Multimodal Large Language Models in Japanese Diagnostic Radiology Board Examinations (2021-2023)](https://www.sciencedirect.com/science/article/abs/pii/S1076633224008195)
+- [Provision of Radiology Reports Simplified With Large Language Models to Patients With Cancer: Impact on Patient Satisfaction](https://ascopubs.org/doi/full/10.1200/CCI-24-00166)
 
+## Ideas:
+### Epilepsy and CNS cancer:
+  - [MRI-Based Radiomics Approach for Differentiating Juvenile Myoclonic Epilepsy from Epilepsy with Generalized Tonic-Clonic Seizures Alone](https://aesnet.org/abstractslisting/mri-based-radiomics-approach-for-differentiating-juvenile-myoclonic-epilepsy-from-epilepsy-with-generalized-tonic-clonic-seizures-alone)
+  - [Predicting Drug Treatment Outcomes in Children with Tuberous Sclerosis Complex–Related Epilepsy: A Clinical Radiomics Study](https://www.ajnr.org/content/44/7/853)
+  - [Prediction of preoperative tumor-related epilepsy using XGBoost radiomics models with 4 MRI sequences](https://pubmed.ncbi.nlm.nih.gov/40054011/)
+  - [Leveraging pathological markers of lower grade glioma to predict the occurrence of secondary epilepsy, a retrospective study](https://www.nature.com/articles/s41598-025-04279-8)
+  - [To be or not to be: The dilemma over the prognostic role of epilepsy at presentation in patients with glioblastoma – a systematic review and meta-analysis](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-024-13249-8)
+  - [Unraveling the Link: Exploring the Relationship between Glioblastoma and Epilepsy
+](https://www.gbmresearch.org/blog/the-relationship-between-glioblastoma-and-epilepsy)
+  - [Epilepsy and brain tumors: Two sides of the same coin](https://www.jns-journal.com/article/S0022-510X(23)00044-8/fulltext)
