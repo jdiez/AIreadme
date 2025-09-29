@@ -8,3 +8,7 @@
 ## Books and references:
 - [Books and references from K9 Conversationists](https://k9conservationists.org/books-to-read-for-conservation-detection-dog-handlers/)
 
+## Ideas:
+- [El Programa Nacional de Estuarios (NEP)](https://www.landscape.sa.gov.au/news/rare-plants-and-animals-saved-by-a-nose)
+- [Ebro Bioterritory Living Lab](https://centreenresilienciaclimatica.org/en/living-lab-ebre-bioterritori/)
+
