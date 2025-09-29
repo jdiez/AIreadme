@@ -16,6 +16,11 @@
 - [Performance of Multimodal Large Language Models in Japanese Diagnostic Radiology Board Examinations (2021-2023)](https://www.sciencedirect.com/science/article/abs/pii/S1076633224008195)
 - [Provision of Radiology Reports Simplified With Large Language Models to Patients With Cancer: Impact on Patient Satisfaction](https://ascopubs.org/doi/full/10.1200/CCI-24-00166)
 
+- [How Large Language Models Transform Radiology Today](https://blog.medicai.io/en/llm-radiology/)
+- [Reply to the Letter to the Editor: Pushing large language models for improved radiomics study and research](https://link.springer.com/article/10.1007/s00330-025-11869-7)
+
+- [Lexomics, or why to extract relevant information from radiology reports through LLMs](https://pubmed.ncbi.nlm.nih.gov/40982191/)
+
 ## Ideas:
 ### Epilepsy and CNS cancer:
   - [MRI-Based Radiomics Approach for Differentiating Juvenile Myoclonic Epilepsy from Epilepsy with Generalized Tonic-Clonic Seizures Alone](https://aesnet.org/abstractslisting/mri-based-radiomics-approach-for-differentiating-juvenile-myoclonic-epilepsy-from-epilepsy-with-generalized-tonic-clonic-seizures-alone)
@@ -26,3 +31,8 @@
   - [Unraveling the Link: Exploring the Relationship between Glioblastoma and Epilepsy
 ](https://www.gbmresearch.org/blog/the-relationship-between-glioblastoma-and-epilepsy)
   - [Epilepsy and brain tumors: Two sides of the same coin](https://www.jns-journal.com/article/S0022-510X(23)00044-8/fulltext)
+
+
+## Datasets:
+
+- [NSCLC-Radiomics](https://www.kaggle.com/datasets/umutkrdrms/nsclc-radiomics/code)
