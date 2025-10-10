@@ -8,7 +8,7 @@
 - Clinical trial pairwise alignment using data from API.
 - Using FSA openAPI for natural language search.
 
-- [Measuring semantic similarity of clinical trial outcomes using deep pre-trained language representations](https://www.sciencedirect.com/science/article/pii/S2590177X19300575)
+- [Measuring semantic similarity of clinical trial outcomes using deep pre-trained language representations](https://pubmed.ncbi.nlm.nih.gov/34384580/)
 
 Comparing therapeutic regimens semantically works best when you combine a well-defined data model with ontology-backed normalization and task-appropriate similarity metrics. Here’s a practical strategy you can implement step by step.
 
