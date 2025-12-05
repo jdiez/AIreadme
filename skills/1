@@ -1,5 +1,0 @@
-# HuggingFace Skills
-
-Hugging Face Skills are Agent Context Protocol (ACP) definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claude Code, Google DeepMind's Gemini CLI, and Cursor.
-
-Source: [Link to github repository](https://github.com/huggingface/skills)
