@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javier Díez Pérez - AI & Data Science Specialist</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+            position: relative;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="25" cy="25" r="1" fill="rgba(255,255,255,0.1)"/><circle cx="75" cy="75" r="1" fill="rgba(255,255,255,0.1)"/><circle cx="50" cy="10" r="0.5" fill="rgba(255,255,255,0.05)"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
+            opacity: 0.1;
+        }
+
+        .header-content {
+            position: relative;
+            z-index: 1;
+        }
+
+        .name {
+            font-size: 2.5em;
+            font-weight: 300;
+            margin-bottom: 10px;
+            letter-spacing: 2px;
+        }
+
+        .title {
+            font-size: 1.3em;
+            font-weight: 400;
+            margin-bottom: 20px;
+            opacity: 0.9;
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.9em;
+        }
+
+        .main-content {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 0;
+        }
+
+        .sidebar {
+            background: #f8f9fa;
+            padding: 40px 30px;
+            border-right: 1px solid #e9ecef;
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        .section {
+            margin-bottom: 35px;
+        }
+
+        .section-title {
+            font-size: 1.4em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid #3498db;
+            position: relative;
+        }
+
+        .ai-highlight {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.2);
+        }
+
+        .ai-highlight h3 {
+            font-size: 1.3em;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .ai-highlight ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .ai-highlight li {
+            margin-bottom: 8px;
+            padding-left: 20px;
+            position: relative;
+        }
+
+        .ai-highlight li::before {
+            content: '🤖';
+            position: absolute;
+            left: 0;
+        }
+
+        .experience-item {
+            margin-bottom: 25px;
+            padding: 20px;
+            border-left: 4px solid #3498db;
+            background: #f8f9fa;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .job-title {
+            font-size: 1.1em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+
+        .company {
+            font-weight: 500;
+            color: #3498db;
+            margin-bottom: 5px;
+        }
+
+        .date {
+            font-size: 0.9em;
+            color: #7f8c8d;
+            margin-bottom: 10px;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .skill-category {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+
+        .skill-category h4 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+            font-size: 1em;
+        }
+
+        .skill-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .skill-tag {
+            background: #ecf0f1;
+            color: #2c3e50;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8em;
+            font-weight: 500;
+        }
+
+        .ai-tag {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .education-item {
+            margin-bottom: 15px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+
+        .degree {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+
+        .institution {
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 768px) {
+            .main-content {
+                grid-template-columns: 1fr;
+            }
+            
+            .contact-info {
+                flex-direction: column;
+                align-items: center;
+                gap: 15px;
+            }
+            
+            .name {
+                font-size: 2em;
+            }
+            
+            .skills-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <h1 class="name">Javier Díez Pérez</h1>
+                <p class="title">Senior Innovation Specialist in Data Science & AI</p>
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <span>📧</span>
+                        <span>jdiezperezj@gmail.com</span>
+                    </div>
+                    <div class="contact-item">
+                        <span>📱</span>
+                        <span>+34 654052443</span>
+                    </div>
+                    <div class="contact-item">
+                        <span>🌐</span>
+                        <span>https://jdiez.github.io</span>
+                    </div>
+                    <div class="contact-item">
+                        <span>📍</span>
+                        <span>Barcelona, Spain</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <aside class="sidebar">
+                <div class="section">
+                    <h2 class="section-title">AI & ML Skills</h2>
+                    <div class="skill-category">
+                        <h4>AI/ML Frameworks</h4>
+                        <div class="skill-tags">
+                            <span class="skill-tag ai-tag">scikit-learn</span>
+                            <span class="skill-tag ai-tag">XGBoost</span>
+                            <span class="skill-tag ai-tag">H2O</span>
+                            <span class="skill-tag ai-tag">SHAP</span>
+                            <span class="skill-tag ai-tag">LIME</span>
+                        </div>
+                    </div>
+                    
+                    <div class="skill-category">
+                        <h4>Data Science</h4>
+                        <div class="skill-tags">
+                            <span class="skill-tag">Pandas</span>
+                            <span class="skill-tag">Polars</span>
+                            <span class="skill-tag">NumPy/SciPy</span>
+                            <span class="skill-tag">PySpark</span>
+                            <span class="skill-tag">Dask</span>
+                            <span class="skill-tag">Ray</span>
+                        </div>
+                    </div>
+
+                    <div class="skill-category">
+                        <h4>Programming</h4>
+                        <div class="skill-tags">
+                            <span class="skill-tag">Python</span>
+                            <span class="skill-tag">R</span>
+                            <span class="skill-tag">Scala</span>
+                            <span class="skill-tag">Rust</span>
+                        </div>
+                    </div>
+
+                    <div class="skill-category">
+                        <h4>Cloud & DevOps</h4>
+                        <div class="skill-tags">
+                            <span class="skill-tag">AWS</span>
+                            <span class="skill-tag">GCP</span>
+                            <span class="skill-tag">Docker</span>
+                            <span class="skill-tag">Terraform</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <h2 class="section-title">Education</h2>
+                    <div class="education-item">
+                        <div class="degree">Specialist in Quantitative Research</div>
+                        <div class="institution">Polytechnic University of Madrid</div>
+                        <div class="date">2006-2007</div>
+                    </div>
+                    <div class="education-item">
+                        <div class="degree">Master in Biochemistry & Molecular Biology</div>
+                        <div class="institution">Universidad Autónoma de Madrid</div>
+                        <div class="date">2005-2007</div>
+                    </div>
+                    <div class="education-item">
+                        <div class="degree">Bachelor's in Biochemistry</div>
+                        <div class="institution">Universidad Autónoma de Madrid</div>
+                        <div class="date">2001-2004</div>
+                    </div>
+                </div>
+            </aside>
+
+            <main class="content">
+                <div class="ai-highlight">
+                    <h3>🚀 Current AI Innovation Focus</h3>
+                    <ul>
+                        <li><strong>Agentic Conversational AI:</strong> Developing advanced chatbot applications with single and multi-agent architectures for structured and unstructured data</li>
+                        <li><strong>Multimodal RAG:</strong> Implementing cutting-edge Retrieval-Augmented Generation systems</li>
+                        <li><strong>Innovation Leadership:</strong> Leading Alexion's 2025 spring accelerator program using Stratagyzer's framework</li>
+                    </ul>
+                </div>
+
+                <div class="section">
+                    <h2 class="section-title">Professional Experience</h2>
+                    
+                    <div class="experience-item">
+                        <div class="job-title">Senior Innovation Specialist DS and AI</div>
+                        <div class="company">AstraZeneca - ODSAI</div>
+                        <div class="date">2025 - Present | Barcelona, Spain</div>
+                        <ul>
+                            <li><strong>Agentic AI Development:</strong> Building conversational applications for structured (files and databases) and unstructured data using RAG-RIG architecture</li>
+                            <li><strong>Multimodal AI:</strong> Implementing advanced multimodal RAG systems</li>
+                            <li><strong>Innovation Program:</strong> Leading Alexion's 2025 spring accelerator program with innovation modeling and testing</li>
+                        </ul>
+                    </div>
+
+                    <div class="experience-item">
+                        <div class="job-title">Data Product Lead</div>
+                        <div class="company">AstraZeneca - Oncology Data Science Platforms</div>
+                        <div class="date">2023 - 2025 | Barcelona, Spain</div>
+                        <ul>
+                            <li>Led data product operations for PDx mouse models</li>
+                            <li>Managed data product operations for ENABL platform</li>
+                            <li>Developed scalable data solutions for oncology research</li>
+                        </ul>
+                    </div>
+
+                    <div class="experience-item">
+                        <div class="job-title">Data Engineer & Python Developer</div>
+                        <div class="company">Contractor</div>
+                        <div class="date">2022 - 2023 | Madrid, Spain</div>
+                        <ul>
+                            <li>Developed data products for pharmaceutical (GSK) and food industries</li>
+                            <li>Applied Data Science, ML and AI techniques</li>
+                            <li>Created Python packages for unstructured data validation and FAIRification</li>
+                            <li>Built GCP ETL pipelines with integrated validation systems</li>
+                        </ul>
+                    </div>
+
+                    <div class="experience-item">
+                        <div class="job-title">Lead Bioinformatician and Data Scientist</div>
+                        <div class="company">PharmaMar</div>
+                        <div class="date">2021 - 2022 | Madrid, Spain</div>
+                        <ul>
+                            <li>Led R&D bioinformatics for cancer genomics and drug development</li>
+                            <li>Conducted multiomics analysis (DNA-seq, RNA-seq, ChIP-seq, ATAC-seq)</li>
+                            <li>Integrated molecular and clinical data for clinical trial submissions</li>
+                        </ul>
+                    </div>
+
+                    <div class="experience-item">
+                        <div class="job-title">Senior Bioinformatician and Data Scientist</div>
+                        <div class="company">Fujitsu</div>
+                        <div class="date">2020 - 2021 | Madrid, Spain</div>
+                        <ul>
+                            <li>Digital transformation consultant at European Center of Excellence</li>
+                            <li>Worked with Electronic Health Records APIs and SNOMED-CT</li>
+                            <li>Applied entity recognition and classification technologies</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="section">
+                    <h2 class="section-title">Key Achievements</h2>
+                    <ul style="list-style-type: none; padding-left: 0;">
+                        <li style="margin-bottom: 10px; padding: 10px; background: #f8f9fa; border-left: 4px solid #3498db; border-radius: 0 5px 5px 0;">
+                            <strong>AI Innovation:</strong> Currently developing state-of-the-art agentic conversational AI systems at AstraZeneca
+                        </li>
+                        <li style="margin-bottom: 10px; padding: 10px; background: #f8f9fa; border-left: 4px solid #3498db; border-radius: 0 5px 5px 0;">
+                            <strong>Leadership:</strong> Leading innovation accelerator programs and data product operations
+                        </li>
+                        <li style="margin-bottom: 10px; padding: 10px; background: #f8f9fa; border-left: 4px solid #3498db; border-radius: 0 5px 5px 0;">
+                            <strong>Publications:</strong> 16+ peer-reviewed publications in genomics and bioinformatics
+                        </li>
+                        <li style="margin-bottom: 10px; padding: 10px; background: #f8f9fa; border-left: 4px solid #3498db; border-radius: 0 5px 5px 0;">
+                            <strong>International Experience:</strong> Worked across Spain, UK, France, and Mexico
+                        </li>
+                    </ul>
+                </div>
+            </main>
+        </div>
+    </div>
+</body>
+</html>
