@@ -8,6 +8,8 @@
 
 ## Install GCP CLI [link](https://docs.cloud.google.com/sdk/docs/install-sdk#deb)
 
+## [Python docs samples - github repository](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/main)
+
 ## [Google Cloud Certificates main web page](https://cloud.google.com/learn/certificates?hl=en)
 
 Discover certificates for in-demand skills
