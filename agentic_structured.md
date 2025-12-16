@@ -5,3 +5,5 @@
   This post shows how to build a self-improving Text-to-SQL agent using dynamic context and "poor-man's continuous learning".
 
 - [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857v1)
+
+- [Towards a Science of Scaling Agent Systems](https://arxiv.org/abs/2512.08296)
