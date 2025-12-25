@@ -29,3 +29,5 @@ To gather further insights in this transformative area of health innovation, we 
 This article collection calls for original research, detailed reviews, and insightful case studies that collectively aim to push the boundaries of AI in acoustic analysis for improved patient outcomes in detecting and managing neuromuscular and respiratory conditions.
 
 Topic Coordinator Roshan Sharma is an employee at Google Deepmind, and Topic Coordinator Ankit Parag Shah is an employee at Accenture. All other Topic Editors declare no conflicts of interest.
+
+Source: [link](https://www.frontiersin.org/research-topics/68825/advances-in-ai-for-acoustic-diagnostics-of-neuromuscular-and-respiratory-diseases)
