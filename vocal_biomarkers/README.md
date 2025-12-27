@@ -9,5 +9,6 @@
 ## UPC Bioengineering
 
 - [Bioengineering Lab UPC](https://biomec.upc.edu/lab-members/)
+- [Bioinformatica and Biomedical Signal Lab](https://b2slab.upc.edu/)
 - [Xartec Salut](https://xartecsalut.com/)
 - [Xartec Salut Start-ups](https://xartecsalut.com/start-ups/)
