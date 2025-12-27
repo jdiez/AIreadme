@@ -27,3 +27,7 @@ Pay attention to:
 ## Disfonia
 
 - [Disfonía Infantil - Rosana Boronat, Logopeda](https://www.youtube.com/watch?v=8I1ls_1tnbM)
+
+## Biomarkers General Publications
+
+- [AI listens for health conditions](https://www.nature.com/immersive/medical-diagnostics/index.html)
