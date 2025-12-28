@@ -40,4 +40,6 @@ Pay attention to:
 - [A Review of Voice-Based Pain Detection in Adults Using Artificial Intelligence](https://pubmed.ncbi.nlm.nih.gov/37106687/)
 - [TAME Pain data release: using audio signals to characterize pain](https://www.nature.com/articles/s41597-025-04733-2)
 - [AI-Driven Pain Assessment: Leveraging Facial and Vocal Biomarkers to Transform Patient Care](https://www.acldigital.com/blogs/ai-driven-pain-assessment-leveraging-facial-and-vocal-biomarkers-to-transform-patient-care)
+- [Predicting Acute Pain Levels Implicitly from Vocal Features](https://www.isca-archive.org/interspeech_2024/williams24_interspeech.pdf)
 - [Consensus-Based Definitions for Vocal Biomarkers: The International VOCAL Initiative](https://www.medrxiv.org/content/10.1101/2025.10.23.25338518v1)
+- [Guess What We Can HeardNovel Voice Biomarkers for the Remote Detection of Disease](https://www.bioanalyytikot.fi/app/uploads/2025/03/Article-on-AI-and-novel-biomarkers-1.pdf)
