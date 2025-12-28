@@ -31,3 +31,13 @@ Pay attention to:
 ## Biomarkers General Publications
 
 - [AI listens for health conditions](https://www.nature.com/immersive/medical-diagnostics/index.html)
+
+## Pain
+
+- [La Càtedra de Dolor Infantil URV - Fundación Grünenthal](https://www.urv.cat/ca/societat-empresa/catedres/catedra-de-dolor-infantil-urv-fundacion-grunenthal/la-catedra/#programa-hospital)
+- [International Association for the Study of Pain](https://www.iasp-pain.org/)
+- [Leveraging Voice Biomarkers to Quantify Chronic Pain: A Rapid Review](https://www.frontiersin.org/journals/pain-research/articles/10.3389/fpain.2025.1678160/abstract)
+- [A Review of Voice-Based Pain Detection in Adults Using Artificial Intelligence](https://pubmed.ncbi.nlm.nih.gov/37106687/)
+- [TAME Pain data release: using audio signals to characterize pain](https://www.nature.com/articles/s41597-025-04733-2)
+- [AI-Driven Pain Assessment: Leveraging Facial and Vocal Biomarkers to Transform Patient Care](https://www.acldigital.com/blogs/ai-driven-pain-assessment-leveraging-facial-and-vocal-biomarkers-to-transform-patient-care)
+- [Consensus-Based Definitions for Vocal Biomarkers: The International VOCAL Initiative](https://www.medrxiv.org/content/10.1101/2025.10.23.25338518v1)
