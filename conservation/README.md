@@ -23,3 +23,13 @@ We are your partner in finding, developing and training a specialized service do
 16.- [Endeavour Canine](https://www.endeavourcanine.com/gallery)
 17.- [K9 Conservationists](https://k9conservationists.org/)
 18.- [Conservation Dogs Collective](https://www.conservationdogscollective.org/)
+
+## Podcasts
+
+## Youtube Channels
+
+## Books
+
+## Meetings
+
+## Events
