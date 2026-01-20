@@ -16,3 +16,7 @@ We are your partner in finding, developing and training a specialized service do
 9.- [BioSniff](https://www.biosniff.com/services-1)
 10.- [Chiron K9 - Paul Bunker](https://chiron-k9.com/)
 11.- [Biocan - Ideas ideasmedioambientales](https://www.ideasmedioambientales.com/en/blog/biocan-utility-2-0-la-apuesta-de-ideas-medioambientales-por-soluciones-altamente-eficientes)
+12.- [CANEM perros de alerta](https://www.perrosdealerta.com/qui%C3%A9nes-somos)
+13.- [Medical Detection Dogs](https://www.medicaldetectiondogs.org.uk/)
+14.- [Scent Detection Academy - The Netherlands](https://www.scentdetectionacademy.com/introduction/)
+15.- [Animval Courses biocan-utility-2-0-la-apuesta-de-ideas-medioambientales-por-soluciones-altamente-eficientes](https://animalcoursesdirect.co.uk/?_gl=1*1x89t5x*_up*MQ..*_gs*MQ..&gclid=CjwKCAiA95fLBhBPEiwATXUsxA5RwYT9Z0Hoi9VhKOOYxZxgS1MP4e-qMJAEchn5eON8JB2A9nkjihoCGuMQAvD_BwE)
