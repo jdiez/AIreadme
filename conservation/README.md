@@ -20,3 +20,5 @@ We are your partner in finding, developing and training a specialized service do
 13.- [Medical Detection Dogs](https://www.medicaldetectiondogs.org.uk/)
 14.- [Scent Detection Academy - The Netherlands](https://www.scentdetectionacademy.com/introduction/)
 15.- [Animval Courses biocan-utility-2-0-la-apuesta-de-ideas-medioambientales-por-soluciones-altamente-eficientes](https://animalcoursesdirect.co.uk/?_gl=1*1x89t5x*_up*MQ..*_gs*MQ..&gclid=CjwKCAiA95fLBhBPEiwATXUsxA5RwYT9Z0Hoi9VhKOOYxZxgS1MP4e-qMJAEchn5eON8JB2A9nkjihoCGuMQAvD_BwE)
+16.- [Endeavour Canine](https://www.endeavourcanine.com/gallery)
+17.- [K9 Conservationists](https://k9conservationists.org/)
