@@ -23,6 +23,8 @@ We are your partner in finding, developing and training a specialized service do
 16.- [Endeavour Canine](https://www.endeavourcanine.com/gallery)
 17.- [K9 Conservationists](https://k9conservationists.org/)
 18.- [Conservation Dogs Collective](https://www.conservationdogscollective.org/)
+19.- [Scent Amulet](https://www.allergyamulet.com/blog/scent-sational-creatures-food-allergen-detection-dogs)
+Alergen detection dogs.
 
 ## Podcasts
 
