@@ -1,0 +1,141 @@
+graph TB
+    Start([Study Initiation]) --> Phase1[Phase 1: Protocol Finalization<br/>Months 1-3]
+    
+    Phase1 --> P1A[Finalize Assessment Tools]
+    Phase1 --> P1B[Develop Training Materials]
+    Phase1 --> P1C[Submit IRB Applications]
+    Phase1 --> P1D[Establish DSMB & Data Systems]
+    Phase1 --> P1E[Recruit & Train Staff]
+    
+    P1A --> Phase2
+    P1B --> Phase2
+    P1C --> Phase2
+    P1D --> Phase2
+    P1E --> Phase2
+    
+    Phase2[Phase 2: Pilot Testing<br/>Month 3] --> P2A[Staff Training Workshops]
+    Phase2 --> P2B[Protocol Testing]
+    Phase2 --> P2C[Refine Procedures]
+    Phase2 --> P2D[Establish QA Procedures]
+    
+    P2A --> Phase3
+    P2B --> Phase3
+    P2C --> Phase3
+    P2D --> Phase3
+    
+    Phase3[Phase 3: Soft Launch<br/>Months 4-6] --> P3A[Begin Enrollment]
+    Phase3 --> P3B[Weekly Team Meetings]
+    Phase3 --> P3C[First DSMB Review]
+    Phase3 --> P3D[Protocol Adjustments]
+    
+    P3A --> Phase4
+    P3B --> Phase4
+    P3C --> Phase4
+    P3D --> Phase4
+    
+    Phase4[Phase 4: Full Implementation<br/>Months 7-36] --> Recruitment[Patient Recruitment<br/>Months 4-18<br/>Target: 600 participants]
+    
+    Recruitment --> Screening{Screening &<br/>Eligibility}
+    
+    Screening -->|Eligible| Groups[Assign to Study Groups]
+    Screening -->|Ineligible| Exclude[Exclude from Study]
+    
+    Groups --> G1[Pediatric Autoimmune<br/>n=150]
+    Groups --> G2[Pediatric Non-Autoimmune<br/>n=150]
+    Groups --> G3[Adult Autoimmune<br/>n=150]
+    Groups --> G4[Adult Non-Autoimmune<br/>n=150]
+    
+    G1 --> Baseline
+    G2 --> Baseline
+    G3 --> Baseline
+    G4 --> Baseline
+    
+    Baseline[Baseline Assessment<br/>Month 0] --> BA1[Thyroid Function Tests]
+    Baseline --> BA2[Clinical Characterization]
+    Baseline --> BA3[Psychiatric Phenotyping]
+    Baseline --> BA4[Psychosis Screening - Tier 1]
+    Baseline --> BA5[Biological Sample Collection]
+    
+    BA4 --> PsyScreen{Positive<br/>Screen?}
+    
+    PsyScreen -->|Yes| Tier2[Tier 2: Detailed Assessment<br/>SCID-5/K-SADS-PL<br/>BPRS, Cognitive Tests]
+    PsyScreen -->|No| FollowUp
+    
+    Tier2 --> SevereCheck{Severe<br/>Symptoms?}
+    
+    SevereCheck -->|Yes| Tier3[Tier 3: Specialized Evaluation<br/>Psychiatrist Assessment<br/>Hashimoto's Encephalopathy<br/>Advanced Investigations]
+    SevereCheck -->|No| FollowUp
+    
+    Tier3 --> Triage{Severity<br/>Triage}
+    
+    Triage -->|High Urgency| Emergency[Emergency Intervention<br/>Immediate Action]
+    Triage -->|Moderate Urgency| Prompt[Prompt Assessment<br/>48-72 hours]
+    Triage -->|Low Urgency| Routine[Routine Follow-up<br/>1-2 weeks]
+    
+    Emergency --> FollowUp
+    Prompt --> FollowUp
+    Routine --> FollowUp
+    
+    BA1 --> FollowUp
+    BA2 --> FollowUp
+    BA3 --> FollowUp
+    BA5 --> FollowUp
+    
+    FollowUp[Prospective Follow-up<br/>Months 7-30] --> FU3[Month 3 Assessment<br/>Abbreviated Protocol]
+    FollowUp --> FU6[Month 6 Assessment<br/>Abbreviated Protocol]
+    FollowUp --> FU12[Month 12 Assessment<br/>Full Reassessment]
+    
+    FU3 --> QA
+    FU6 --> QA
+    FU12 --> QA
+    
+    QA[Quality Assurance<br/>Ongoing] --> QA1[Monthly Data Audits]
+    QA --> QA2[Quarterly DSMB Reviews]
+    QA --> QA3[Inter-rater Reliability Testing]
+    QA --> QA4[Protocol Adherence Monitoring]
+    
+    QA1 --> DataClean
+    QA2 --> DataClean
+    QA3 --> DataClean
+    QA4 --> DataClean
+    
+    DataClean[Data Cleaning & Analysis<br/>Months 31-33] --> SA1[Primary Analysis:<br/>Prevalence Comparison]
+    DataClean --> SA2[Secondary Analysis:<br/>Symptom Severity]
+    DataClean --> SA3[Exploratory Analysis:<br/>Symptom Profiles]
+    DataClean --> SA4[Longitudinal Analysis:<br/>Trajectories]
+    
+    SA1 --> Results
+    SA2 --> Results
+    SA3 --> Results
+    SA4 --> Results
+    
+    Results[Results Synthesis<br/>Month 33] --> Dissemination[Dissemination<br/>Months 34-36]
+    
+    Dissemination --> D1[Primary Manuscript:<br/>Phenotype Differences]
+    Dissemination --> D2[Secondary Manuscripts:<br/>Psychosis, Pediatric, Longitudinal]
+    Dissemination --> D3[Conference Presentations]
+    Dissemination --> D4[Clinical Tools & Guidelines]
+    Dissemination --> D5[Biobank Establishment]
+    
+    D1 --> End
+    D2 --> End
+    D3 --> End
+    D4 --> End
+    D5 --> End
+    
+    End([Study Completion &<br/>Future Biomarker Studies])
+    
+    style Start fill:#e1f5e1
+    style End fill:#e1f5e1
+    style Phase1 fill:#fff4e6
+    style Phase2 fill:#fff4e6
+    style Phase3 fill:#fff4e6
+    style Phase4 fill:#fff4e6
+    style Baseline fill:#e3f2fd
+    style FollowUp fill:#e3f2fd
+    style Tier2 fill:#ffebee
+    style Tier3 fill:#ffebee
+    style Emergency fill:#ffcdd2
+    style DataClean fill:#f3e5f5
+    style Results fill:#f3e5f5
+    style Dissemination fill:#e8f5e9

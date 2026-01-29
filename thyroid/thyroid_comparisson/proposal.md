@@ -488,7 +488,7 @@ This has **major treatment implications** - misdiagnosis could lead to inadequat
 
 **This addition would significantly strengthen your proposal** by addressing an understudied but clinically important question with potential for high-impact findings.
 
-Would you like me to help you develop specific psychosis assessment protocols, refine the statistical approach for rare outcomes, or create a decision algorithm for identifying and managing psychotic symptoms in your study participants?
+
 
 # Comprehensive Psychosis Assessment Protocols for Hypothyroidism Study
 

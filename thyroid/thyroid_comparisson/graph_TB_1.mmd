@@ -1,0 +1,206 @@
+graph TB
+    Start([Hypothyroidism Population]) --> Split{Etiology}
+    
+    Split -->|Autoimmune| AI[Autoimmune Hypothyroidism<br/>Hashimoto's Thyroiditis<br/>Anti-TPO/Anti-Tg Positive]
+    Split -->|Non-Autoimmune| NAI[Non-Autoimmune Hypothyroidism<br/>Iatrogenic/Congenital/Idiopathic<br/>Antibody Negative]
+    
+    %% Shared Features
+    AI --> Shared1[Shared Clinical Features]
+    NAI --> Shared1
+    
+    Shared1 --> S1[Elevated TSH<br/>Low Free T4/T3]
+    Shared1 --> S2[Fatigue & Cold Intolerance]
+    Shared1 --> S3[Weight Changes]
+    Shared1 --> S4[Cognitive Slowing]
+    Shared1 --> S5[Depressive Symptoms<br/>Baseline Level]
+    
+    %% Autoimmune Specific Pathway
+    AI --> AIPath[Autoimmune-Specific Mechanisms]
+    
+    AIPath --> AIM1[Immune Dysregulation]
+    AIPath --> AIM2[Chronic Inflammation]
+    AIPath --> AIM3[Anti-Thyroid Antibodies]
+    AIPath --> AIM4[Potential CNS Cross-Reactivity]
+    
+    AIM1 --> AIClin[Enhanced Clinical Features]
+    AIM2 --> AIClin
+    AIM3 --> AIClin
+    AIM4 --> AIClin
+    
+    AIClin --> AIC1[Greater Disease Variability]
+    AIClin --> AIC2[Fluctuating Symptoms]
+    AIClin --> AIC3[Ultrasound: Heterogeneous Echo]
+    
+    %% Autoimmune Psychiatric Features
+    AIPath --> AIPsych[Enhanced Psychiatric Burden]
+    
+    AIPsych --> AIP1[Higher Depression Severity<br/>⬆️ BDI-II/HAM-D Scores]
+    AIPsych --> AIP2[Greater Anxiety Levels<br/>⬆️ GAD-7/HAM-A Scores]
+    AIPsych --> AIP3[More Cognitive Complaints<br/>⬆️ Subjective Impairment]
+    AIPsych --> AIP4[Persistent Fatigue<br/>Independent of TSH]
+    AIPsych --> AIP5[Treatment-Resistant Symptoms]
+    
+    %% Psychosis Pathway - Autoimmune
+    AIPsych --> AIPsy[Psychotic Manifestations<br/>HIGHER PREVALENCE]
+    
+    AIPsy --> AIPS1[Attenuated Psychotic Symptoms<br/>Prevalence: 15-25%]
+    AIPsy --> AIPS2[Frank Psychotic Episodes<br/>Prevalence: 5-10%]
+    AIPsy --> AIPS3[Hashimoto's Encephalopathy<br/>SREAT Syndrome<br/>Prevalence: 2-5%]
+    
+    AIPS1 --> PSProfile1[Symptom Profile:<br/>Autoimmune Pattern]
+    AIPS2 --> PSProfile1
+    AIPS3 --> PSProfile1
+    
+    PSProfile1 --> PP1A[Perceptual Disturbances<br/>⬆️ Visual/Auditory Hallucinations]
+    PSProfile1 --> PP1B[Paranoid Ideation<br/>⬆️ Persecutory Themes]
+    PSProfile1 --> PP1C[Confusional States<br/>⬆️ Delirium-like Features]
+    PSProfile1 --> PP1D[Thought Disorder<br/>Disorganization]
+    PSProfile1 --> PP1E[Affective Symptoms<br/>Depression + Psychosis]
+    
+    AIPS3 --> HE[Hashimoto's Encephalopathy<br/>Unique Features]
+    
+    HE --> HE1[Elevated Anti-TPO Titers<br/>>1000 IU/mL]
+    HE --> HE2[Often Normal Thyroid Function]
+    HE --> HE3[Neurological Signs<br/>Tremor, Myoclonus, Ataxia]
+    HE --> HE4[EEG Abnormalities<br/>Diffuse Slowing]
+    HE --> HE5[Steroid-Responsive<br/>Dramatic Improvement]
+    HE --> HE6[Rapid Onset<br/>Days to Weeks]
+    HE --> HE7[Fluctuating Course<br/>Relapsing-Remitting]
+    
+    %% Autoimmune Mechanisms for Psychosis
+    AIPsy --> AIMech[Proposed Mechanisms]
+    
+    AIMech --> AM1[Neuroinflammation<br/>⬆️ IL-6, TNF-α, CRP]
+    AIMech --> AM2[BBB Disruption<br/>Antibody CNS Penetration]
+    AIMech --> AM3[Anti-Neuronal Antibodies<br/>Cross-Reactivity]
+    AIMech --> AM4[Cytokine-Mediated<br/>Neurotransmitter Dysregulation]
+    AIMech --> AM5[Cerebral Hypoperfusion<br/>Vascular Changes]
+    
+    %% Non-Autoimmune Specific Pathway
+    NAI --> NAIPath[Non-Autoimmune Mechanisms]
+    
+    NAIPath --> NAIM1[Pure Hormone Deficiency]
+    NAIPath --> NAIM2[No Immune Activation]
+    NAIPath --> NAIM3[Structural/Iatrogenic Causes]
+    
+    NAIM1 --> NAIClin[Clinical Features]
+    NAIM2 --> NAIClin
+    NAIM3 --> NAIClin
+    
+    NAIClin --> NAIC1[More Stable Course]
+    NAIClin --> NAIC2[Predictable Response to Treatment]
+    NAIClin --> NAIC3[Ultrasound: Normal or Atrophic]
+    
+    %% Non-Autoimmune Psychiatric Features
+    NAIPath --> NAIPsych[Psychiatric Manifestations<br/>LOWER BURDEN]
+    
+    NAIPsych --> NAIP1[Moderate Depression<br/>⬇️ Severity vs Autoimmune]
+    NAIPsych --> NAIP2[Moderate Anxiety<br/>⬇️ Severity vs Autoimmune]
+    NAIPsych --> NAIP3[Cognitive Slowing<br/>Hormone-Dependent]
+    NAIPsych --> NAIP4[Fatigue<br/>Correlates with TSH]
+    NAIPsych --> NAIP5[Better Treatment Response<br/>Symptoms Resolve with T4]
+    
+    %% Psychosis Pathway - Non-Autoimmune
+    NAIPsych --> NAIPsy[Psychotic Manifestations<br/>LOWER PREVALENCE]
+    
+    NAIPsy --> NAIPS1[Attenuated Symptoms<br/>Prevalence: 5-10%]
+    NAIPsy --> NAIPS2[Frank Psychosis<br/>Prevalence: 2-5%]
+    NAIPsy --> NAIPS3[Myxedema Madness<br/>Severe Hypothyroidism<br/>Prevalence: <2%]
+    
+    NAIPS1 --> PSProfile2[Symptom Profile:<br/>Non-Autoimmune Pattern]
+    NAIPS2 --> PSProfile2
+    NAIPS3 --> PSProfile2
+    
+    PSProfile2 --> PP2A[Depressive Psychosis<br/>⬆️ Mood-Congruent Features]
+    PSProfile2 --> PP2B[Psychomotor Retardation<br/>⬆️ Negative Symptoms]
+    PSProfile2 --> PP2C[Cognitive Impairment<br/>⬆️ Confusion vs Hallucinations]
+    PSProfile2 --> PP2D[Correlates with TSH<br/>Hormone-Dependent]
+    PSProfile2 --> PP2E[Resolves with Treatment<br/>T4 Replacement Effective]
+    
+    NAIPS3 --> MM[Myxedema Madness<br/>Severe Hypothyroidism]
+    
+    MM --> MM1[Very High TSH<br/>>50-100 mIU/L]
+    MM --> MM2[Severe Hypothyroid State<br/>Medical Emergency]
+    MM --> MM3[Paranoid Delusions<br/>Hallucinations]
+    MM --> MM4[Profound Cognitive Impairment]
+    MM --> MM5[Responds to T4 Replacement<br/>+ Supportive Care]
+    MM --> MM6[Gradual Onset<br/>Weeks to Months]
+    
+    %% Comparative Outcomes
+    PSProfile1 --> Compare[Comparative Analysis]
+    PSProfile2 --> Compare
+    HE --> Compare
+    MM --> Compare
+    
+    Compare --> Comp1[Psychosis Prevalence<br/>AI: 20-35% vs NAI: 7-15%<br/>Expected OR: 2.5-3.0]
+    Compare --> Comp2[Symptom Severity<br/>AI: Higher BPRS Scores<br/>More Persistent]
+    Compare --> Comp3[Symptom Type<br/>AI: Perceptual > Cognitive<br/>NAI: Cognitive > Perceptual]
+    Compare --> Comp4[Treatment Response<br/>AI: May Need Immunotherapy<br/>NAI: T4 Usually Sufficient]
+    Compare --> Comp5[Temporal Pattern<br/>AI: Can Occur with Normal TSH<br/>NAI: Correlates with Severity]
+    Compare --> Comp6[Antibody Correlation<br/>AI: ⬆️ Anti-TPO = ⬆️ Symptoms<br/>NAI: No Antibody Association]
+    
+    %% Age-Dependent Differences
+    Compare --> AgeDiff[Age-Dependent Patterns]
+    
+    AgeDiff --> Ped[Pediatric Population<br/>Ages 6-17]
+    AgeDiff --> Adult[Adult Population<br/>Ages 18-65]
+    
+    Ped --> PedAI[Autoimmune Pediatric]
+    Ped --> PedNAI[Non-Autoimmune Pediatric]
+    
+    PedAI --> PedAI1[Greater Neurodevelopmental Impact]
+    PedAI --> PedAI2[School Performance Issues]
+    PedAI --> PedAI3[Behavioral Changes]
+    PedAI --> PedAI4[Attenuated Psychotic Symptoms<br/>Prevalence: 10-15%]
+    
+    PedNAI --> PedNAI1[Developmental Delays]
+    PedNAI --> PedNAI2[Cognitive Slowing]
+    PedNAI --> PedNAI3[Lower Psychosis Risk<br/>Prevalence: 3-5%]
+    
+    Adult --> AdAI[Autoimmune Adult]
+    Adult --> AdNAI[Non-Autoimmune Adult]
+    
+    AdAI --> AdAI1[Complex Psychiatric Comorbidity]
+    AdAI --> AdAI2[Treatment-Resistant Depression]
+    AdAI --> AdAI3[Higher Psychosis Risk<br/>Prevalence: 25-35%]
+    AdAI --> AdAI4[Hashimoto's Encephalopathy<br/>Peak Age: 40-60 years]
+    
+    AdNAI --> AdNAI1[Hormone-Responsive Symptoms]
+    AdNAI --> AdNAI2[Moderate Depression/Anxiety]
+    AdNAI --> AdNAI3[Lower Psychosis Risk<br/>Prevalence: 10-15%]
+    
+    %% Clinical Implications
+    Comp1 --> ClinImp[Clinical Implications]
+    Comp2 --> ClinImp
+    Comp3 --> ClinImp
+    Comp4 --> ClinImp
+    Comp5 --> ClinImp
+    Comp6 --> ClinImp
+    
+    ClinImp --> CI1[Screening Recommendations<br/>Enhanced Psychiatric Monitoring<br/>for Autoimmune Cases]
+    ClinImp --> CI2[Treatment Strategies<br/>AI: Consider Immunotherapy<br/>NAI: Optimize T4 Replacement]
+    ClinImp --> CI3[Prognostic Implications<br/>AI: More Persistent Symptoms<br/>NAI: Better Response to T4]
+    ClinImp --> CI4[Biomarker Targets<br/>AI: Inflammatory/Immune Markers<br/>NAI: Metabolic Markers]
+    
+    CI1 --> End
+    CI2 --> End
+    CI3 --> End
+    CI4 --> End
+    
+    End([Future Directions:<br/>Biomarker Discovery<br/>Personalized Treatment<br/>Mechanistic Studies])
+    
+    style Start fill:#e1f5e1
+    style AI fill:#ffebee
+    style NAI fill:#e3f2fd
+    style Shared1 fill:#fff9c4
+    style AIPsy fill:#ff5252,color:#fff
+    style NAIPsy fill:#64b5f6,color:#fff
+    style HE fill:#d32f2f,color:#fff
+    style MM fill:#1976d2,color:#fff
+    style PSProfile1 fill:#ef5350,color:#fff
+    style PSProfile2 fill:#42a5f5,color:#fff
+    style Compare fill:#f3e5f5
+    style ClinImp fill:#c8e6c9
+    style End fill:#e1f5e1
+    style AIMech fill:#ffccbc
+    style AgeDiff fill:#e1bee7
