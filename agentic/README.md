@@ -11,3 +11,7 @@
 
 ## Use Cases
 - [A Field Guide to Deploying AI Agents in Clinical Practice](https://arxiv.org/pdf/2509.26153)
+
+## Discussion
+- [Beyond Context Graphs: Agentic Memory, Cognitive Processes, and Promise Graphs](https://leanpub.com/beyondcontextgraphs)
+
