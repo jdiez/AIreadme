@@ -9,6 +9,9 @@
 - [MemU Agentic memory framework for LLMs and AI Agents!](https://github.com/NevaMind-AI/memU)
 - [Cognee - Accurate and Persistent AI Memory](https://github.com/topoteretes/cognee)
 
+## Context Graphs
+- [AI’s trillion-dollar opportunity: Context graphs](https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/?utm_source=substack&utm_medium=email)
+
 ## Use Cases
 - [A Field Guide to Deploying AI Agents in Clinical Practice](https://arxiv.org/pdf/2509.26153)
 
