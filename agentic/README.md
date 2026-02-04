@@ -1,4 +1,4 @@
-# Learining agents and representation for AI Agents
+# Learning agents and representation for AI Agents
 
 ## Agents
 - [Self Improving Text2Sql Agent with Dynamic Context and Continuous Learning](https://www.ashpreetbedi.com/articles/sql-agent)
@@ -11,9 +11,21 @@
 
 ## Context Graphs
 - [AI’s trillion-dollar opportunity: Context graphs](https://foundationcapital.com/context-graphs-ais-trillion-dollar-opportunity/?utm_source=substack&utm_medium=email)
+## Agentic Infrastructure
+
+- [PAI / Kai : Personal AI personal-ai-infrastructure](https://danielmiessler.com/blog/personal-ai-infrastructure)
+- [PAI github repo](https://github.com/danielmiessler/Personal_AI_Infrastructure)
+
+### Skills:
+- [Anthropic Skills](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
+- [Agno Skills](https://docs.agno.com/skills/overview)
+
+### Personal assistants
+- [OpenClaw](https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/?utm_source=linkedin&utm_medium=social&utm_campaign=social_post&utm_content=leadership)
 
 ## Use Cases
 - [A Field Guide to Deploying AI Agents in Clinical Practice](https://arxiv.org/pdf/2509.26153)
+- [Scaling medical AI across clinical contexts](https://www.nature.com/articles/s41591-025-04184-7)
 - [Machines are talking to each other. That changes everything](https://medium.com/enrique-dans/machines-are-talking-to-each-other-that-changes-everything-12d8452275fb)
 
 ## Discussion
