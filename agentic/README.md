@@ -22,6 +22,7 @@
 
 ### Personal assistants
 - [OpenClaw](https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/?utm_source=linkedin&utm_medium=social&utm_campaign=social_post&utm_content=leadership)
+- [MoltBot & MoltBook & MoltHub](https://medium.com/data-science-in-your-pocket/moltbook-vs-moltbot-vs-molthub-ab123bd711ea)
 
 ## Use Cases
 - [A Field Guide to Deploying AI Agents in Clinical Practice](https://arxiv.org/pdf/2509.26153)
@@ -30,4 +31,5 @@
 
 ## Discussion
 - [Beyond Context Graphs: Agentic Memory, Cognitive Processes, and Promise Graphs](https://leanpub.com/beyondcontextgraphs)
+- [OpenClaw: Why 24-Hour Autonomous Agents Are Not Ready for Healthcare](https://medium.com/@alexglee/openclaw-why-24-hour-autonomous-agents-are-not-ready-for-healthcare-29e8f6a28781)
 
