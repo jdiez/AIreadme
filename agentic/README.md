@@ -22,6 +22,7 @@
 
 ### Personal assistants
 - [OpenClaw](https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/?utm_source=linkedin&utm_medium=social&utm_campaign=social_post&utm_content=leadership)
+- [NanoClaw](https://github.com/gavrielc/nanoclaw/tree/main)
 - [MoltBot & MoltBook & MoltHub](https://medium.com/data-science-in-your-pocket/moltbook-vs-moltbot-vs-molthub-ab123bd711ea)
 
 ## Use Cases
