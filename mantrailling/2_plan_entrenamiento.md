@@ -881,25 +881,25 @@ OBJETIVO:
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
 ║  PERRO:                                                   ║
-║  □ Trabaja distancias 50-75 metros consistentemente      ║
-║  □ Resuelve 2-3 giros sin ayuda                          ║
-║  □ Gestiona distracciones sin perder enfoque             ║
-║  □ Trabaja rastros envejecidos 10-15 min                 ║
-║  □ Se adapta a cambios de superficie                     ║
-║  □ Mantiene motivación en rastros largos                 ║
-║  □ Localiza figurante en 75%+ de rastros                 ║
+║  □ Trabaja distancias 50-75 metros consistentemente       ║
+║  □ Resuelve 2-3 giros sin ayuda                           ║
+║  □ Gestiona distracciones sin perder enfoque              ║
+║  □ Trabaja rastros envejecidos 10-15 min                  ║
+║  □ Se adapta a cambios de superficie                      ║
+║  □ Mantiene motivación en rastros largos                  ║
+║  □ Localiza figurante en 75%+ de rastros                  ║
 ║                                                           ║
 ║  GUÍA:                                                    ║
-║  □ Lee señales del perro con precisión                   ║
-║  □ Anticipa zonas de decisión                            ║
-║  □ Gestiona entorno proactivamente                       ║
-║  □ Confianza total en el perro                           ║
-║  □ Documenta patrones de comportamiento                  ║
-║  □ Adapta estrategia según condiciones                   ║
+║  □ Lee señales del perro con precisión                    ║
+║  □ Anticipa zonas de decisión                             ║
+║  □ Gestiona entorno proactivamente                        ║
+║  □ Confianza total en el perro                            ║
+║  □ Documenta patrones de comportamiento                   ║
+║  □ Adapta estrategia según condiciones                    ║
 ║                                                           ║
 ║  CRITERIO DE AVANCE:                                      ║
-║  ├─ Mínimo 11/13 ítems marcados → AVANZAR FASE 3        ║
-║  └─ Menos de 11/13 → REPETIR semanas 7-8                ║
+║  ├─ Mínimo 11/13 ítems marcados → AVANZAR FASE 3          ║
+║  └─ Menos de 11/13 → REPETIR semanas 7-8                  ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -949,14 +949,14 @@ CONFIGURACIÓN:
 
 DIAGRAMA:
     🏠═══🏠═══🏠═══🏠
-    ║              ║
-    ║ 4  [👤]    8 ║
-    ║    OCULTO  ↑ ║
-    🏠  3         9 🏠
-    ║   ↑        ↑ ║
-    ║ 2 │       10 ║
-    ║   │        ↑ ║
-    🏠══1═══════11══🏠
+    ║               ║
+    ║ 4  [👤]    8  ║
+    ║    OCULTO  ↑  ║
+    🏠  3        9 🏠
+    ║   ↑        ↑  ║
+    ║ 2 │       10  ║
+    ║   │        ↑  ║
+    🏠══1══════11══🏠
         ↑
       [👃]
 
@@ -1324,27 +1324,27 @@ OBJETIVO:
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
 ║  PERRO:                                                   ║
-║  □ Trabaja distancias 75-150 metros                      ║
-║  □ Resuelve 4-5 giros consecutivos                       ║
-║  □ Trabaja rastros 20-30 min envejecidos                 ║
-║  □ Discrimina en contaminación cruzada                   ║
-║  □ Se adapta a entornos nuevos rápidamente               ║
-║  □ Mantiene motivación en rastros complejos              ║
-║  □ Gestiona distracciones urbanas intensas               ║
-║  □ Localiza figurante en 70%+ de rastros                 ║
+║  □ Trabaja distancias 75-150 metros                       ║
+║  □ Resuelve 4-5 giros consecutivos                        ║
+║  □ Trabaja rastros 20-30 min envejecidos                  ║
+║  □ Discrimina en contaminación cruzada                    ║
+║  □ Se adapta a entornos nuevos rápidamente                ║
+║  □ Mantiene motivación en rastros complejos               ║
+║  □ Gestiona distracciones urbanas intensas                ║
+║  □ Localiza figurante en 70%+ de rastros                  ║
 ║                                                           ║
 ║  GUÍA:                                                    ║
-║  □ Lee señales del perro con precisión experta           ║
-║  □ Toma decisiones autónomas durante rastro              ║
-║  □ Diseña rastros apropiados independientemente          ║
-║  □ Gestiona situaciones imprevistas con calma            ║
-║  □ Comprende profundamente Método Kocher                 ║
-║  □ Adapta estrategia según condiciones en tiempo real    ║
-║  □ Documenta y analiza patrones consistentemente         ║
+║  □ Lee señales del perro con precisión experta            ║
+║  □ Toma decisiones autónomas durante rastro               ║
+║  □ Diseña rastros apropiados independientemente           ║
+║  □ Gestiona situaciones imprevistas con calma             ║
+║  □ Comprende profundamente Método Kocher                  ║
+║  □ Adapta estrategia según condiciones en tiempo real     ║
+║  □ Documenta y analiza patrones consistentemente          ║
 ║                                                           ║
 ║  CRITERIO DE AVANCE:                                      ║
-║  ├─ Mínimo 13/15 ítems marcados → AVANZAR FASE 4        ║
-║  └─ Menos de 13/15 → REPETIR semanas 11-12              ║
+║  ├─ Mínimo 13/15 ítems marcados → AVANZAR FASE 4          ║
+║  └─ Menos de 13/15 → REPETIR semanas 11-12                ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -1688,42 +1688,42 @@ CELEBRACIÓN FINAL:
 ║         EVALUACIÓN FINAL - 16 SEMANAS COMPLETADAS         ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
-║  HABILIDADES TÉCNICAS DEL PERRO:                         ║
-║  □ Distancias 100-200 metros                    [1-5]: __║
-║  □ Giros múltiples (4-6)                        [1-5]: __║
-║  □ Envejecimiento 30-60 minutos                 [1-5]: __║
-║  □ Discriminación en contaminación              [1-5]: __║
-║  □ Adaptación a entornos nuevos                 [1-5]: __║
-║  □ Gestión de distracciones                     [1-5]: __║
-║  □ Motivación sostenida                         [1-5]: __║
+║  HABILIDADES TÉCNICAS DEL PERRO:                          ║
+║  □ Distancias 100-200 metros                    [1-5]: __ ║
+║  □ Giros múltiples (4-6)                        [1-5]: __ ║
+║  □ Envejecimiento 30-60 minutos                 [1-5]: __ ║
+║  □ Discriminación en contaminación              [1-5]: __ ║
+║  □ Adaptación a entornos nuevos                 [1-5]: __ ║
+║  □ Gestión de distracciones                     [1-5]: __ ║
+║  □ Motivación sostenida                         [1-5]: __ ║
 ║                                                           ║
-║  HABILIDADES TÉCNICAS DEL GUÍA:                          ║
-║  □ Lectura del perro                            [1-5]: __║
-║  □ Línea suelta consistente                     [1-5]: __║
-║  □ No interferencia                             [1-5]: __║
-║  □ Toma de decisiones                           [1-5]: __║
-║  □ Diseño de rastros                            [1-5]: __║
-║  □ Gestión de entorno                           [1-5]: __║
-║  □ Comprensión Método Kocher                    [1-5]: __║
+║  HABILIDADES TÉCNICAS DEL GUÍA:                           ║
+║  □ Lectura del perro                            [1-5]: __ ║
+║  □ Línea suelta consistente                     [1-5]: __ ║
+║  □ No interferencia                             [1-5]: __ ║
+║  □ Toma de decisiones                           [1-5]: __ ║
+║  □ Diseño de rastros                            [1-5]: __ ║
+║  □ Gestión de entorno                           [1-5]: __ ║
+║  □ Comprensión Método Kocher                    [1-5]: __ ║
 ║                                                           ║
 ║  DESARROLLO DEL BINOMIO:                                  ║
-║  □ Comunicación perro-guía                      [1-5]: __║
-║  □ Confianza mutua                              [1-5]: __║
-║  □ Trabajo en equipo                            [1-5]: __║
-║  □ Resolución de problemas                      [1-5]: __║
-║  □ Adaptabilidad conjunta                       [1-5]: __║
+║  □ Comunicación perro-guía                      [1-5]: __ ║
+║  □ Confianza mutua                              [1-5]: __ ║
+║  □ Trabajo en equipo                            [1-5]: __ ║
+║  □ Resolución de problemas                      [1-5]: __ ║
+║  □ Adaptabilidad conjunta                       [1-5]: __ ║
 ║                                                           ║
 ║  ESCALA:                                                  ║
-║  1 = Inicial | 2 = Básico | 3 = Competente              ║
-║  4 = Avanzado | 5 = Experto                              ║
+║  1 = Inicial | 2 = Básico | 3 = Competente                ║
+║  4 = Avanzado | 5 = Experto                               ║
 ║                                                           ║
-║  PUNTUACIÓN TOTAL: _____ / 95                            ║
+║  PUNTUACIÓN TOTAL: _____ / 95                             ║
 ║                                                           ║
 ║  INTERPRETACIÓN:                                          ║
-║  ├─ 75-95: Excelente, listo para trabajo avanzado       ║
-║  ├─ 60-74: Muy bueno, continuar refinando               ║
-║  ├─ 45-59: Competente, necesita más práctica            ║
-║  └─ <45: Necesita repetir elementos de programa         ║
+║  ├─ 75-95: Excelente, listo para trabajo avanzado         ║
+║  ├─ 60-74: Muy bueno, continuar refinando                 ║
+║  ├─ 45-59: Competente, necesita más práctica              ║
+║  └─ <45: Necesita repetir elementos de programa           ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
