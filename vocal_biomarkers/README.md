@@ -43,3 +43,6 @@ Pay attention to:
 - [Predicting Acute Pain Levels Implicitly from Vocal Features](https://www.isca-archive.org/interspeech_2024/williams24_interspeech.pdf)
 - [Consensus-Based Definitions for Vocal Biomarkers: The International VOCAL Initiative](https://www.medrxiv.org/content/10.1101/2025.10.23.25338518v1)
 - [Guess What We Can HeardNovel Voice Biomarkers for the Remote Detection of Disease](https://www.bioanalyytikot.fi/app/uploads/2025/03/Article-on-AI-and-novel-biomarkers-1.pdf)
+
+## Frameworks
+- [ESPnet: ESPnet is the state-of-the-art toolkit that covers end-to-end speech recognition ](https://espnet.github.io/espnet/)
