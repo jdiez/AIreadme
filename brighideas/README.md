@@ -1,3 +1,8 @@
+# Brightidea
+
+- Source: [link](https://az.brightidea.com/2026ScienceCatalyst)
+
+## Neuroimmune psychiatric insights
 Immune checkpoint inhibitors (ICIs) have revolutionized cancer treatment but often trigger immune-related adverse events (irAEs), including neuroimmune and neuropsychiatric side effects, due to the loss of self-tolerance. These side effects, occurring in roughly 1%–12% of patients, provide crucial insights into neuroimmunology, helping researchers identify new targets for psychiatric disorders. 
 Neuroimmune Psychiatric Side Effects of Checkpoint Inhibitors
 ICIs—particularly anti-CTLA-4 (ipilimumab) and anti-PD-1/PD-L1 (nivolumab, pembrolizumab)—can induce a range of Central Nervous System (CNS) and Peripheral Nervous System (PNS) toxicities. 
@@ -24,4 +29,8 @@ Antidepressant Anti-inflammatory Effects: Investigating why certain antidepressa
 Genetic Susceptibility Mapping:
 HLA Typing: Identifying HLA variants (e.g., DRB1) associated with neurological toxicities allows for the identification of patients prone to neuroimmune conditions and helps map the genetic landscape of immune-related psychiatric disorders. 
 Key Findings: The onset of these symptoms is often rapid (within 2–12 weeks of initiation), and they can, in some cases, be reversed by withdrawing the drug or administering immunosuppression (e.g., corticosteroids), highlighting the direct immune-mediated nature of the damage. 
+
+
+## PC CI and MR multiagentic System
+
 
