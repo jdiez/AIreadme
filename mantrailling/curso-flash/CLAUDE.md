@@ -205,5 +205,7 @@ Sessions are numbered sequentially. Current sessions:
 | 01 | Doble figurante bifurcación | Dual figurant split | Scent discrimination at split + wind |
 | 02 | Puerta valla figurante oculto | Fence door concealed figurant | Door marking + ground-level camouflaged find |
 | 03 | Muro bajo salto pérdida rastro | Low wall jump scent loss | Jump point marking + scent loss communication |
+| 04 | Retroceso en cuadrícula urbana | Backtrack in urban grid | Backtrack overlap zone + two grid turns (Street A + Street C) |
+| 05 | Oficinas escaleras parking | Office area parking stairs | Underground stairwell + olfactory funnel effect |
 
-Next session should be numbered `04`.
+Next session should be numbered `06`.
